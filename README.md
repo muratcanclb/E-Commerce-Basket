@@ -1,2 +1,2 @@
 # E-Commerce-Basket
-E-ticaret web siteleri için vue ile tasarladığım sayfalar.
+E-ticaret web siteleri için vue ile tasarladığım sayfa.
